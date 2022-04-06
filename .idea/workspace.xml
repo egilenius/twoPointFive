@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8ce92133-4d24-48c4-9ea6-5e880ef8f967" name="Changes" comment="" />
+    <list default="true" id="8ce92133-4d24-48c4-9ea6-5e880ef8f967" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,10 +20,14 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="27NglZIPGkIBPQZdPdXPoXzxAjh" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -41,7 +47,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JUnit.MontyPythonReferenceTest.testGorn">
     <configuration name="MontyPythonReferenceTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="twoPointFive" />
       <option name="PACKAGE_NAME" value="" />
@@ -51,8 +57,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="MontyPythonReferenceTest.testGorn" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twoPointFive" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="MontyPythonReferenceTest" />
+      <option name="METHOD_NAME" value="testGorn" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.MontyPythonReferenceTest.testGorn" />
         <item itemvalue="JUnit.MontyPythonReferenceTest" />
       </list>
     </recent_temporary>
@@ -68,10 +85,25 @@
       <workItem from="1649166115170" duration="669000" />
       <workItem from="1649167196277" duration="679000" />
       <workItem from="1649171518560" duration="304000" />
+      <workItem from="1649172662237" duration="181000" />
+      <workItem from="1649174256005" duration="243000" />
+      <workItem from="1649232774853" duration="108000" />
+      <workItem from="1649232937359" duration="140000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
